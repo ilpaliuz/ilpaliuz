@@ -2,8 +2,11 @@
 ---
 
 💻 Computer Science Engineer with a strong background in **data analysis** and **machine learning**
+
 🎓 PhD Candidate in **Information Technology - Systems and Control** at [Politecnico di Milano](https://www.polimi.it)  
+
 🔬 Research Assistant at **MOVE**, one of the world’s leading research groups in autonomous driving
+
 🚗 Passionate about smart mobility, data-driven innovation, and autonomous vehicle systems  
 
 ---
