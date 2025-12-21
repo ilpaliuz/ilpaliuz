@@ -27,7 +27,7 @@ I'm currently focused on cutting-edge research involving:
 ## 📂 Why Few Contributions on GitHub?
 
 Most of my development work is done on a **private server and GitLab repository** managed by our research group.  
-That's why you might not see many public projects here. But feel free to reach out — I’m always open to discussing my work, potential collaborations, or just connecting with like-minded researchers and developers.
+That's why you might not see many public projects here. But feel free to reach out, I’m always open to discussing my work, potential collaborations, or just connecting with like-minded researchers and developers.
 
 ![Antonio Pagliaroli GitHub/GitLab Merged Contribution](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=ilpaliuz&gitlabUsername=antonio.pagliaroli)
 
